@@ -1,0 +1,1 @@
+myProject02基于myProject01,引入了vuex.

@@ -1,0 +1,26 @@
+{
+    "code": 10000,
+    "msg": "请求处理成功",
+    "data": [
+    	{
+	      "text": "note1",
+	      "favorite": false
+	    },
+	    {
+	      "text": "note2",
+	      "favorite": true
+	    },
+	    {
+	      "text": "note3",
+	      "favorite": false
+	    },
+	    {
+	      "text": "note4",
+	      "favorite": false
+	    },
+	    {
+	      "text": "note5",
+	      "favorite": false
+	    }
+    ]
+}
