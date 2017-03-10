@@ -46,6 +46,8 @@ export function fetchPostsIfNeeded() {
     // 注意这个函数也接收了 getState() 方法
     // 它让你选择接下来 dispatch 什么
     return (dispatch, getState) => {
+        console.log(getState())
+        console.log('**********************')
         return dispatch(fetchPosts())
     }
 }
